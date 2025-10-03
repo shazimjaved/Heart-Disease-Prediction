@@ -349,7 +349,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 [![GitHub](https://img.shields.io/badge/GitHub-shazimjaved-black.svg)](https://github.com/shazimjaved)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/shazimjaved)
-[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:shazimjaved@healthcare-ai.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:shazimjaved448@gmail.com)
 
 **Specialized in developing cutting-edge AI solutions for healthcare applications**
 
