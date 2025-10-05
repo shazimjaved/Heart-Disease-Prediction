@@ -370,9 +370,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📞 **Support**
 
 - 📧 **Email**: shazimjaved448@gmail.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/shazimjaved/heart-disease-prediction/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/shazimjaved/heart-disease-prediction/wiki)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/shazimjaved/heart-disease-prediction/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/shazimjaved/Heart-Disease-Prediction/issues)
+- 📖 **Documentation**: [Wiki](https://github.com/shazimjaved/Heart-Disease-Prediction/wiki)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/shazimjaved/Heart-Disease-Prediction/discussions)
 
 ---
 
